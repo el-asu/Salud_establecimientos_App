@@ -1,5 +1,5 @@
 # Dr. Mapp
-# Access app via: https://drmapp.streamlit.app/
+# Access app via: https://dr-mapp.streamlit.app/
 
 # Cargamos las librerías necesarias
 import streamlit as st
